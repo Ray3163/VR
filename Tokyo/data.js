@@ -85,6 +85,12 @@ var APP_DATA = {
           "pitch": 0.24737064609433723,
           "rotation": 0,
           "target": "2-shibuya-design-lab"
+        },
+        {
+          "yaw": 2.993387263730108,
+          "pitch": 0.5625981817694825,
+          "rotation": 0,
+          "target": "0-shibuya--outside"
         }
       ],
       "infoHotspots": [
@@ -130,6 +136,12 @@ var APP_DATA = {
           "pitch": 0.5738747343691806,
           "rotation": 0,
           "target": "3-shibuya-inside"
+        },
+        {
+          "yaw": -0.9704591687314057,
+          "pitch": 0.8600519392652988,
+          "rotation": 0,
+          "target": "1-shibuya-mewtwo"
         }
       ],
       "infoHotspots": [
